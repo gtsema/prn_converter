@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-10">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/grigoriy/.p2/pool/plugins/org.eclipse.osgi_3.12.100.v20180210-1608.jar" sourcepath="C:/Users/grigoriy/.p2/pool/plugins/org.eclipse.osgi_3.12.100.v20180210-1608.jar"/>
 	<classpathentry kind="lib" path="C:/Users/grigoriy/.p2/pool/plugins/org.eclipse.core.commands_3.9.0.v20170530-1048.jar" sourcepath="C:/Users/grigoriy/.p2/pool/plugins/org.eclipse.core.commands_3.9.0.v20170530-1048.jar"/>
@@ -18,25 +13,10 @@
 	<classpathentry kind="lib" path="C:/Users/grigoriy/.p2/pool/plugins/org.eclipse.ui.workbench_3.110.1.v20170704-1208.jar" sourcepath="C:/Users/grigoriy/.p2/pool/plugins/org.eclipse.ui.workbench_3.110.1.v20170704-1208.jar"/>
 	<classpathentry kind="lib" path="C:/Users/grigoriy/.p2/pool/plugins/com.ibm.icu_58.2.0.v20170418-1837.jar" sourcepath="C:/Users/grigoriy/.p2/pool/plugins/com.ibm.icu_58.2.0.v20170418-1837.jar"/>
 	<classpathentry kind="lib" path="C:/Users/grigoriy/.p2/pool/plugins/org.eclipse.ui.forms_3.7.101.v20170815-1446.jar" sourcepath="C:/Users/grigoriy/.p2/pool/plugins/org.eclipse.ui.forms_3.7.101.v20170815-1446.jar"/>
-	<classpathentry kind="lib" path="C:/Users/grigoriy/Documents/eclipse-workspace/java/lib/jfreechart/jfreechart-1.0.19/lib/jcommon-1.0.23.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/grigoriy/Documents/eclipse-workspace/java/lib/jfreechart/jfreechart-1.0.19/lib/jfreechart-1.0.19-swt.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/grigoriy/Documents/eclipse-workspace/java/lib/jfreechart/jfreechart-1.0.19/lib/swtgraphics2d.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/grigoriy/Documents/eclipse-workspace/java/lib/jfreechart/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/grigoriy/Documents/eclipse-workspace/java/lib/jfreechart/jfreechart-1.0.19/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grigoriy/Documents/eclipse-workspace/java/lib/jfreechart/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/grigoriy/Documents/eclipse-workspace/java/lib/jfreechart/jfreechart-1.0.19/lib/junit-4.11.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/grigoriy/Documents/eclipse-workspace/java/lib/jfreechart/jfreechart-1.0.19/lib/jfreechart-1.0.19-swt.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

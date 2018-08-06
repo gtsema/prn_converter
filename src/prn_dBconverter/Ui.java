@@ -97,6 +97,7 @@ public class Ui {
 			      if(PD.checkFile()) {
 			    	  frame.setChart(PD.plot(PD.parser(0)));
 			    	  frame.setBounds(0, 0, 760, 396);
+			    	  frame.chartChanged(null);
 			      }
 			      
 			    }
